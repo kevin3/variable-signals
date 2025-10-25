@@ -26,8 +26,6 @@ A curated list of cutting-edge research articles and blog posts across genomics,
 
 ## Contents
 
-- [Journals](#journals)
-- [Articles](#articles)
 - [Follow](#follow)
 
 <!-- CONTENT -->
