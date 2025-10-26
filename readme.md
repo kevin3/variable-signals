@@ -13,7 +13,7 @@ A resource for learning
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+  <img src="./varsig_20251025.png" />
 </a>
 
 <!-- description -->
