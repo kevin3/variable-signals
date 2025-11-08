@@ -85,6 +85,8 @@ A curated collection of cutting-edge studies, tools, and guidelines across biome
   AI-driven approaches for personalized heart health.
 - [OpenTSLM](https://opentslm.com)  
   Time-Series Language Models (TSLMs) enable reasoning and forecasting over temporal data in natural language.
+  - [BioContextAI | Community hub for agentic biomedical systems](https://biocontext.ai/)
+  -   Open-source Model Context Protocol (MCP) servers providing standardized access to biomedical databases and tools, enabling LLMs and AI agents to access validated scientific knowledge reliably.
 
 ---
 
